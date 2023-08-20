@@ -33,7 +33,7 @@
 1. Клонируйте репозиторий на вашем локальном компьютере:
 
    ```bash
-   git clone git@github.com:Xopeek/Foodgram_network.git
+   git clone git@github.com:Xopeek/test_task.git
 2. Перейдите в каталог с приложением:
 
     ```bash
