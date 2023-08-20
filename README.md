@@ -37,7 +37,7 @@
 2. Перейдите в каталог с приложением:
 
     ```bash
-    cd TestTask
+    cd test_task
 3. Запустите приложение:
     ```
    python phonebook.py
