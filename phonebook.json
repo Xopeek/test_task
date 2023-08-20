@@ -1,0 +1,50 @@
+[
+    {
+        "last_name": "Семляков",
+        "first_name": "Игорь",
+        "middle_name": "Николаевич",
+        "organization": "Каскад",
+        "work_phone": "84812341422",
+        "personal_phone": "89142325533"
+    },
+    {
+        "last_name": "Антонов",
+        "first_name": "Антон",
+        "middle_name": "Антонович",
+        "organization": "Магнит",
+        "work_phone": "84813252455",
+        "personal_phone": "89952562355"
+    },
+    {
+        "last_name": "Иванов",
+        "first_name": "Иван",
+        "middle_name": "Иванович",
+        "organization": "Пятерочка",
+        "work_phone": "85324371232",
+        "personal_phone": "89525336122"
+    },
+    {
+        "last_name": "Петров",
+        "first_name": "Петр",
+        "middle_name": "Петрович",
+        "organization": "Глобус",
+        "work_phone": "84214255232",
+        "personal_phone": "89125247811"
+    },
+    {
+        "last_name": "Лебедев",
+        "first_name": "Федор",
+        "middle_name": "Анатольевич",
+        "organization": "Фроу",
+        "work_phone": "84142351252",
+        "personal_phone": "89294218722"
+    },
+    {
+        "last_name": "Куров",
+        "first_name": "Глеб",
+        "middle_name": "Игоревич",
+        "organization": "Грууц",
+        "work_phone": "84242351224",
+        "personal_phone": "89235723255"
+    }
+]
